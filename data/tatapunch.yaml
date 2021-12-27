@@ -1,0 +1,9 @@
+variants:
+  - PURE:
+    name: PURE
+    showroom_price: ₹5,80,000
+    onroad_price: ₹6,80,000
+  - ADVENTURE:
+    name: ADVENTURE
+    showroom_price: ₹6,80,000
+    onroad_price: ₹7,80,000 

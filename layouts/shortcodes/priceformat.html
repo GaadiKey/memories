@@ -1,0 +1,5 @@
+{{ with $.Site.Data.tatapunch }}
+ <ul>{{ range .variants }}
+    <li> {{ .name }} : {{ .showroom_price }}</li>
+  {{ end }}</ul>
+{{ end }} 
