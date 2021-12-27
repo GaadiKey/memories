@@ -4,7 +4,7 @@ date: 2015-07-22T17:22:18+05:30
 type: "posts"
 ---
 
-##Memories of My First Gaadi
+## Memories of My First Gaadi
 *by Akshata Belludi*
 
 I guess I was 6 when dad taught me cycling that’s among many things I owe to dad. It was his way of making me strong. Take me on the top of a small hill and leave me from there promising he will hold me.
