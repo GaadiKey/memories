@@ -147,16 +147,13 @@ type = "application/rss+xml"
 languageName = ":uk:"
 
 [[languages.en.menu.main]]
-name = "Best Vehicles"
+name = "Stories"
 weight = 1
-url = "best/"
+url = "stories/"
 
 [[languages.en.menu.main]]
-name = "Best SUV Cars"
+name = "Services"
 weight = 2
-url = "best/suv-cars/"
+url = "services/"
 
-[[languages.en.menu.main]]
-name = "Car Tips"
-weight = 2
-url = "tips/cars/"
+
