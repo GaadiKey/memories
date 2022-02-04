@@ -266,7 +266,7 @@
   <br/><br/>
   <br/><br/>
 
-  <div class="has-text-centered">
+  <!--div class="has-text-centered">
   <form method="post" action="https://postbox.gaadikey.com/subscription/form" class="listmonk-form">
     <div>
         <h3>Subscribe</h3>
@@ -281,7 +281,51 @@
         <p><input type="submit" value="Subscribe" /></p>
     </div>
 </form>
-   </div>
+   </div-->
+<section class="container">
+<h1 class="titled title is-2 mb-6 has-text-centered">Subscribe by Email</h1>
+  <div class="columns is-justify-content-center">
+    <div class="column is-6-tablet is-5-desktop is-4-widescreen is-3-fullh">
+      <form method="POST" action="https://postbox.gaadikey.com/subscription/form" class="box p-5">
+
+        <label class="is-block mb-4">
+          <span class="is-block mb-2">Email address</span>
+          <input
+            required
+            name="email"
+            type="email"
+            class="input"
+            placeholder="joe.bloggs@example.com"
+            required
+          />
+        </label>
+        <p>
+          <label class="checkbox">
+          <input id="c7394" type="checkbox" name="l" checked value="c7394d10-b4cc-46c4-8a53-3dcbbc056871" /> </label>
+          <label for="c7394">Opt-in list</label>
+        </p>
+        <br/>
+
+        <div class="mb-4">
+          <button type="submit" value="Subscribe" class="button is-link px-4">Subscribe</button>
+        </div>
+
+        <div>
+          <div class="is-size-7 has-text-right">
+            by
+            <a
+              href="https://blog.gaadikey.com"
+              class="has-text-dark"
+              target="_blank"
+              >GaadiKey</a
+            >
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</section>
+
 
 
   <section class="container">
