@@ -1,6 +1,6 @@
 <!doctype html><html lang=en>
 <head>
-<meta name=generator content="Hugo 0.92.1">
+<meta name=generator content="Hugo 0.92.2">
 <meta charset=utf-8>
 <meta name=viewport content="width=device-width,initial-scale=1">
 <title>GaadiKey Memories</title>
@@ -196,26 +196,29 @@ GaadiKey Swag
 <br><br>
 <br><br>
 <section class=container>
+<script>function subscribeOnSubmit(a){console.log("The token is "+a);var b=document.getElementById("captchaResponse");b.value=a,document.getElementById("subscription").submit()}</script>
+<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.1/css/bulma.min.css>
 <h1 class="titled title is-2 mb-6 has-text-centered">Subscribe by Email</h1>
 <div class="columns is-justify-content-center">
 <div class="column is-6-tablet is-5-desktop is-4-widescreen is-3-fullh">
-<form method=post action=https://postbox.gaadikey.com/subscription/form class="box p-5">
+<form method=post action=https://postbox.gaadikey.com:9500/submit id=subscription class="box p-5">
 <label class="is-block mb-4">
 <span class="is-block mb-2">Name (Optional)</span>
-<input required name=name type=text class=input placeholder="Nirmala Sitaraman">
+<input required name=name type=text class=input placeholder="Your Name">
 </label>
 <label class="is-block mb-4">
 <span class="is-block mb-2">Email address</span>
-<input required name=email type=email class=input placeholder=joe.bloggs@example.com required>
+<input required name=email type=email class=input placeholder=example@gmail.com required>
 </label>
 <p>
 <label class=checkbox>
-<input id=c7394 type=checkbox name=l checked value=c7394d10-b4cc-46c4-8a53-3dcbbc056871> </label>
-<label for=c7394>Opt-in list</label>
+<input id=c7394 type=checkbox name=uuid checked value=2d10f540-7463-47b2-b66b-8ff7ab8bf5ed> </label>
+<label for=c7394>GaadiKey Memories Newsletter</label>
 </p>
+<input id=captchaResponse name=response type=hidden>
 <br>
 <div class=mb-4>
-<button type=submit value=Subscribe class="button is-link px-4">Subscribe</button>
+<button type=submit value=Subscribe class="button is-link px-4 g-recaptcha" data-sitekey=6LfHG4EeAAAAACR4sYNkfz8xTMqtEdLd9ciY2tVg data-callback=subscribeOnSubmit data-action=submit>Subscribe</button>
 </div>
 <div>
 <div class="is-size-7 has-text-right">
