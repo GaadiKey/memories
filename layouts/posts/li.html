@@ -1,0 +1,9 @@
+<li style="padding-block: 1rem;">
+  <div>
+  <a href="{{ .Params.externalLink | default .RelPermalink }}">
+  <img src='{{ .Params.featuredImage | default "https://blog.gaadikey.com/wp-content/uploads/2022/01/Ford-Family-Commitment-Message-1-1024x576.png" }}' alt="Featured image" width="180" height="120" style="float:left;" /> </a>
+  <a style="font-size: 2rem; font-weight: bold; padding-inline:1rem; " href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Title }}</a>
+  <br/>
+  <span style="font-size: 1.5rem; padding-inline: 1rem; ">{{ .Date.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}</span>
+  </div>
+</li>

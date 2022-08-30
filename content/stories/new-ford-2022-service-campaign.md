@@ -2,6 +2,7 @@
 title: "2022 Ford Service Commitment Campaign"
 date: 2022-01-01T17:22:18+05:30
 type: "posts"
+featuredImage: "https://blog.gaadikey.com/wp-content/uploads/2022/01/Ford-Family-Commitment-Message-1-1024x576.png"
 ---
 
 The digital (60Sec) and television spots (30 Sec) that follow, also convey Ford’s Feels-Like- Family commitment message, using the power of emotional storytelling.

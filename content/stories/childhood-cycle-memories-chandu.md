@@ -1,7 +1,8 @@
 ---
 title: "Childhood Cycle Memories: My buddy my Chandu"
-date: 2095-07-22T17:22:18+05:30
+date: 2015-07-22T17:22:18+05:30
 type: "posts"
+featuredImage: "https://blog.gaadikey.com/wp-content/uploads/2015/07/Bike.jpg"
 ---
 
 ## Memories of My First Gaadi
