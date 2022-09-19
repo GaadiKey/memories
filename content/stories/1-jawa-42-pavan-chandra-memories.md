@@ -55,8 +55,8 @@ It is 500 Kms - 250 kms upwards and 250 downwards. I have done about 5000 kms in
 
 *Note: Pavan C still enjoys riding his outgoing bike Hero CBZ as he has so many memories associated with it. He intends to create many more memories with Jawa 42*
 
-[CBZ 1](https://drive.gaadikey.com/api/photo/CBZ2_ZAkWWQ82.jpeg?token=1LRbjF1M)
-[CBZ 2](https://drive.gaadikey.com/api/photo/CBZ1_ZUP5kaII.jpeg?token=1LRbjF1M)
+![CBZ 1](https://drive.gaadikey.com/api/photo/CBZ2_ZAkWWQ82.jpeg?token=1LRbjF1M)
+![CBZ 2](https://drive.gaadikey.com/api/photo/CBZ1_ZUP5kaII.jpeg?token=1LRbjF1M)
 
 ![Jawa 42 Speedometer](https://drive.gaadikey.com/api/photo/IMG_7299_3RhVkrPF.jpg?token=1LRbjF1M)
 
