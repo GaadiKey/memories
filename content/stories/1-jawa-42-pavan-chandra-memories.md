@@ -53,7 +53,7 @@ Dream destination? Well, my motorcycle (Jawa 42) decides what the final destinat
 
 It is 500 Kms - 250 kms upwards and 250 downwards. I have done about 5000 kms in total since owning the Jawa 42.
 
-*Note: Pavan C still enjoys riding his outgoing bike Hero CBZ as he has so many memories associated with it. He itends to create many more memories with Jawa 42*
+*Note: Pavan C still enjoys riding his outgoing bike Hero CBZ as he has so many memories associated with it. He intends to create many more memories with Jawa 42*
 
 ![Jawa 42 Speedometer](https://drive.gaadikey.com/api/photo/IMG_7299_3RhVkrPF.jpg?token=1LRbjF1M)
 
