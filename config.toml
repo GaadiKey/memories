@@ -10,7 +10,7 @@ pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 # Enable Disqus comments
 # disqusShortname = "yourdiscussshortname"
-googleAnalytics = 'UA-56315292-9'
+googleAnalytics = 'G-EHL3JPDS7J'
 enableRobotsTXT = true
 
 
@@ -78,7 +78,7 @@ customJS = []
 
 # If you want to use Google Tag Manager(https://analytics.google.com/) for analytics, add this section
 # [params.googleTagManager]
-id = "UA-56315292-9"
+id = "G-EHL3JPDS7J"
 
 # If you want to implement a Content-Security-Policy, add this section
 #[params.csp]
