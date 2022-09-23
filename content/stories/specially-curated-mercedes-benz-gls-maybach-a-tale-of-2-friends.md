@@ -2,7 +2,11 @@
 title: "Mercedes-Benz GLS Maybach and a Tale of Two Friends!"
 date: 2022-09-23T12:29:18+05:30
 type: "posts"
+description: "This indeed is a rare and highly inspiring story of celebrating decades of friendship between two IIT-Bombay classmates, and we at the Mercedes-Benz family are extremely proud to be part of this story."
 featuredImage: "https://drive.gaadikey.com/api/photo/%28R-L%29_%E2%80%93_Martin_Schwenk-Managing_Director_&_CEO,_Mercedes-Benz_India,_Amit_Goradia,_Geeta_Goradia_and_Dr__Bharat_Balasubramanian_8VVSiZP1.jpg?token=vc2Ib8Qt"
+images: 
+  - https://drive.gaadikey.com/api/photo/%28R-L%29_%E2%80%93_Martin_Schwenk-Managing_Director_&_CEO,_Mercedes-Benz_India,_Amit_Goradia,_Geeta_Goradia_and_Dr__Bharat_Balasubramanian_8VVSiZP1.jpg?token=vc2Ib8Qt
+
 ---
 
 India's leading luxury car brand Mercedes-Benz today delivered a personally curated Mercedes-Maybach GLS 600 to Ms. Geeta Goradia, spouse of city-based business person, Amit Goradia. The luxury SUV was delivered to Ms. Geeta Goradia by Dr. Bharat Balasubramanian (Dr. B), Professor and Executive Director Center for Advanced Vehicle Technology at College of Engineering, University of Alabama, (also an Ex-Board member of Mercedes-Benz India & Chairman of Mercedes-Benz R&D India and former Vice President of Daimler Group Research and Advanced Engineering), in the presence of Martin Schwenk, Managing Director & CEO, Mercedes-Benz India. This luxury SUV becomes unique and even more special as Dr. Balasubramanian personally witnessed and documented the making of the vehicle from ground zero following all mandated security protocols, at Mercedes-Benz US International's SUV manufacturing plant at Tuscaloosa, Alabama, USA. 
