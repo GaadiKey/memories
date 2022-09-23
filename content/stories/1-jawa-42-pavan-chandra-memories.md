@@ -3,6 +3,8 @@ title: "Jawa 42 - \"My Bike decides the destination\" - Pavan C"
 date: 2022-09-17T20:00:18+05:30
 type: "posts"
 featuredImage: "https://drive.gaadikey.com/api/photo/JAWA_42_Photo_1_d1PICwmX.jpeg?token=1LRbjF1M"
+images:
+  - https://drive.gaadikey.com/api/photo/JAWA_42_Photo_1_d1PICwmX.jpeg?token=1LRbjF1M
 ---
 
 We got an opportunity to meet and interview Mr Pavan C, an engineer based out of Bengaluru who owns the popular Jawa 42 motorcycle. Following are the transcript of our conversation with him.
